@@ -6,7 +6,7 @@ const Shop = () => {
     <div className='container'>
     <div className='row'>
       <div className="col-sm-12  p-4">
-      <h1> <b> Wel Come To Shop!</b></h1>
+      <h1> <b> Wel Come To My Shop Page!</b></h1>
       <hr />
       </div>
       
